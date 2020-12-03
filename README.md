@@ -10,4 +10,4 @@
 No tempo livre, busco aprender novas tecnologias para me aperfeiçoar no desenvolmento web com o intuito de me tornar um desenvolvedor fullstack. Atualmente, estou estudando React e React Hooks. Já para o back: Typescript, Node, Express, typeOrm. Para finalizar, utilizo algumas ferramenta que auxiliam bastante durante o desenvolvimento, sendo elas:
 * :computer: eslint: para a padronização do código.
 * :computer: git: para o versionamento.
-* :computer: npm: para a instalação de pacotes.
+* :computer: yarn: para a instalação de pacotes.
