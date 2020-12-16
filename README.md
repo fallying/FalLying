@@ -3,7 +3,7 @@
 
 > :octocat: Software Developer na HF Soluções, desenvolvendo aplicações desktop para serventias extrajudiciais.
 
-[![Twitter Badge](https://img.shields.io/badge/-@jonasexplore-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/jonasexplore)](https://twitter.com/jonasexplore)
+[![Twitter Badge](https://img.shields.io/badge/-@jonasxplore-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/jonasxplore)](https://twitter.com/jonasexplore)
 [![Linkedin Badge](https://img.shields.io/badge/-Jonas_Brito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fallying/)](https://www.linkedin.com/in/fallying/)
 [![Gmail Badge](https://img.shields.io/badge/-jonasexplore@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonasexplore@gmail.com)](mailto:jonasexplore@gmail.com)
 
