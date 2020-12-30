@@ -1,7 +1,7 @@
 
 # Jonas Brito
 
-> :octocat: Software Developer na HF Soluções, desenvolvendo aplicações desktop para serventias extrajudiciais.
+> :octocat: Graduando em Sistemas de Informação e autodidata.
 
 [![Twitter Badge](https://img.shields.io/badge/-@jonasxplore-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/jonasxplore)](https://twitter.com/jonasxplore)
 [![Linkedin Badge](https://img.shields.io/badge/-Jonas_Brito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fallying/)](https://www.linkedin.com/in/fallying/)
