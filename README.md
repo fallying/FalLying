@@ -11,3 +11,19 @@ No tempo livre, busco aprender novas tecnologias para me aperfeiçoar no desenvo
 * :computer: eslint: para a padronização do código.
 * :computer: git: para o versionamento.
 * :computer: yarn: para a instalação de pacotes.
+
+## Coding Activity
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FalLying&show_icons=true&theme=dracula" alt="FalLying's github stats" />
+</p>
+
+<br/>
+
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://badges.pufler.dev/visits/fallying/fallying" alt="Visitors badge" />
+   </a>
+</p>
