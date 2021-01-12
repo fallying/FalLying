@@ -7,10 +7,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Jonas_Brito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fallying/)](https://www.linkedin.com/in/fallying/)
 [![Gmail Badge](https://img.shields.io/badge/-jonasexplore@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonasexplore@gmail.com)](mailto:jonasexplore@gmail.com)
 
-No tempo livre, busco aprender novas tecnologias para me aperfeiçoar no desenvolmento web com o intuito de me tornar um desenvolvedor fullstack. Atualmente, estou estudando React e React Hooks. Já para o back: Typescript, Node, Express, typeOrm. Para finalizar, utilizo algumas ferramenta que auxiliam bastante durante o desenvolvimento, sendo elas:
-* :computer: eslint: para a padronização do código.
-* :computer: git: para o versionamento.
-* :computer: yarn: para a instalação de pacotes.
+Autodidáta apaixonado por programação desde os 15 anos de idade. Busco insistentemente aprimorar meus conhecimentos na área de tecnologia da informação, sempre aberto a críticas construtivas e novos desafios. Desenvolvo projetos pessoais, participo ao máximo de eventos, busco compartilhar o que aprendo e sempre estou aberto a discurssões com enfoque no desenvolvimento pessoal, profissional e claro, tecnlógico!
+
+Atuamente estudo e desenvolvo projetos com:
+* <strong>Frontend:</strong> React.js, HTML, CSS, BootStrap, JavaScript
+* <strong>Backend:</strong> Node.js, Express, Sequelize ORM
+* <strong>Banco de dados:</strong> SQL Server, MySQL e Postgres
+* <strong>DevOps:</strong> Git / Github
+* <strong>Ferramentas de gestão:</strong> Trello
 
 ## Coding Activity
 
