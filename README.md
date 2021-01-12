@@ -3,9 +3,9 @@
 
 > :octocat: Graduando em Sistemas de Informação e autodidata.
 
-[![Twitter Badge](https://img.shields.io/badge/-@jonasxplore-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/jonasxplore)](https://twitter.com/jonasxplore)
-[![Linkedin Badge](https://img.shields.io/badge/-Jonas_Brito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fallying/)](https://www.linkedin.com/in/fallying/)
-[![Gmail Badge](https://img.shields.io/badge/-jonasexplore@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonasexplore@gmail.com)](mailto:jonasexplore@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@jonasxplore-red?style=flat-square&labelColor=red&logo=twitter&logoColor=white&link=https://twitter.com/jonasxplore)](https://twitter.com/jonasxplore)
+[![Linkedin Badge](https://img.shields.io/badge/-Jonas_Brito-red?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fallying/)](https://www.linkedin.com/in/fallying/)
+[![Gmail Badge](https://img.shields.io/badge/-jonasexplore@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonasexplore@gmail.com)](mailto:jonasexplore@gmail.com)
 
 <img align="right" width="40%" src="https://i.pinimg.com/originals/cb/e2/2d/cbe22db13550075e95c45c04d171fd5e.gif" />
 
