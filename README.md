@@ -16,7 +16,7 @@ No tempo livre, busco aprender novas tecnologias para me aperfeiçoar no desenvo
 
 <br/>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=FalLying&show_icons=true&theme=dracula" alt="FalLying's github stats" />
 </p>
 
