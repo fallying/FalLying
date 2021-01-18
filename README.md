@@ -16,7 +16,7 @@ Atuamente estudo e desenvolvo projetos com:
 * <strong>Backend:</strong> Node.js, Express, Sequelize ORM
 * <strong>Banco de dados:</strong> SQL Server, MySQL e Postgres
 * <strong>DevOps:</strong> Git / Github
-* <strong>Ferramentas de gestão:</strong> Trello
+* <strong>Ferramentas de gestão:</strong> Trello, runrun.it
 
 ## Coding Activity
 
