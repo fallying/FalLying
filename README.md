@@ -12,11 +12,12 @@
 Autodidáta apaixonado por programação desde os 15 anos de idade. Busco insistentemente aprimorar meus conhecimentos na área de tecnologia da informação, sempre aberto a críticas construtivas e novos desafios. Desenvolvo projetos pessoais, participo ao máximo de eventos, busco compartilhar o que aprendo e sempre estou aberto a discurssões com enfoque no desenvolvimento pessoal, profissional e claro, tecnlógico!
 
 Atuamente estudo e desenvolvo projetos com:
-* <strong>Frontend:</strong> React.js, HTML, CSS, BootStrap, JavaScript, Nextjs
+* <strong>Frontend:</strong> React.js, HTML, CSS, BootStrap, JavaScript
 * <strong>Backend:</strong> Node.js, Express, Sequelize ORM
 * <strong>Banco de dados:</strong> SQL Server, MySQL e Postgres
 * <strong>DevOps:</strong> Git / Github
 * <strong>Ferramentas de gestão:</strong> Trello, runrun.it
+* <strong>Frameworks:</strong> Nextjs, Styled-Components
 
 ## Coding Activity
 
