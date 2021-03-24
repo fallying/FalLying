@@ -25,6 +25,7 @@ Atuamente estudo e desenvolvo projetos com:
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=FalLying&show_icons=true&theme=dracula" alt="FalLying's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fallying&layout=compact&theme=dracula" />
 </p>
 
 <br/>
