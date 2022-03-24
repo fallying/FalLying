@@ -21,9 +21,3 @@ My efforts today are focused on me getting up to speed on software engineering a
 </p>
 
 <br/>
-
-<p align="right">
-  <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/jonasexplore/jonasexplore" alt="Visitors badge" />
-   </a>
-</p>
