@@ -15,9 +15,6 @@ My efforts today are focused on me getting up to speed on software engineering a
 
 <br/>
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jonasexplore&show_icons=true&theme=dracula" alt="Jonas's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasexplore&layout=compact&theme=dracula" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonasexplore#version3" />
 
 <br/>
