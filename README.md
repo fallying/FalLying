@@ -13,6 +13,6 @@ And daily I look to delve into new technologies and software architectures. Like
 
 ---
 
-[![Rocketseat](https://img.shields.io/badge/-Rocketseat%20Profile-F652A0?style=flat-square&labelColor=F652A0&logoColor=white&link=https://app.rocketseat.com.br/me/fallying)](https://app.rocketseat.com.br/me/fallying)
-[![Linkedin](https://img.shields.io/badge/-Jonas%20Brito-F652A0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasexplore)](https://www.linkedin.com/in/jonasexplore) 
-[![Gmail](https://img.shields.io/badge/-jonasexplore@gmail.com-F652A0?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonasexplore@gmail.com)](mailto:jonasexplore@gmail.com)
+[![Rocketseat](https://img.shields.io/badge/-Rocketseat%20Profile-58a6ff?style=flat-square&labelColor=58a6ff&logoColor=white&link=https://app.rocketseat.com.br/me/fallying)](https://app.rocketseat.com.br/me/fallying)
+[![Linkedin](https://img.shields.io/badge/-Jonas%20Brito-58a6ff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasexplore)](https://www.linkedin.com/in/jonasexplore) 
+[![Gmail](https://img.shields.io/badge/-jonasexplore@gmail.com-58a6ff?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonasexplore@gmail.com)](mailto:jonasexplore@gmail.com)
