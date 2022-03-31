@@ -1,7 +1,7 @@
 
 <samp>
   
-## Jonas Brito
+## :crystal_ball: Jonas Brito :brazil:
 
 #### :octocat: Back-end Developer | Aspiring software engineer.
 
