@@ -15,6 +15,6 @@ My efforts today are focused on me getting up to speed on software engineering a
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonasexplore#version3" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonasexplore&theme=midnight-purple#version3" />
 
 <br/>
