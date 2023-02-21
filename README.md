@@ -2,7 +2,7 @@
   
 ## :crystal_ball: Jonas Brito :brazil:
 
-#### :octocat: Back-end Developer | Software engineer.
+#### :octocat: Full-stack Developer | Major back-end developer | Software engineer.
 
 <table cellspacing="0" cellpadding="0">
 <tr style="padding: 0">
